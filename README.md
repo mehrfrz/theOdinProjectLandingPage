@@ -2,7 +2,7 @@
 
 A nature-themed responsive landing page built as part of The Odin Project.
 
-[Live demo is here!](https://mehrfrz.github.io/theOdinProjectLandingPage/))
+[Live demo is here!](https://mehrfrz.github.io/theOdinProjectLandingPage/)
 
 ## 🛠️ Built With
 
