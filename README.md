@@ -2,6 +2,7 @@
 
 A nature-themed responsive landing page built as part of The Odin Project.
 
+## 📸 Preview
 [Live demo is here!](https://mehrfrz.github.io/theOdinProjectLandingPage/)
 
 ## 🛠️ Built With
@@ -20,10 +21,6 @@ A nature-themed responsive landing page built as part of The Odin Project.
 - Responsive design with media queries
 - Using `flex`, `gap`, `padding`, `max-width`, and `aspect-ratio`
 - Making layouts adapt to different screen sizes
-
-## 📸 Preview
-
-[Live Demo](YOUR_GITHUB_PAGES_LINK)
 
 ## 📚 Credits
 
